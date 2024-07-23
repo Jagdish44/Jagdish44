@@ -22,7 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish44&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/terabhaiSM/terabhaiSM/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/Jagdish44/Jagdish44/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
 
 <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
