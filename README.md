@@ -22,11 +22,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagdish44&show_icons=true&locale=en" alt="jagdish44" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagdish44&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish44&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=terabhaiSM&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=terabhaiSM&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/terabhaiSM/terabhaiSM/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
 
 <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdish44&" alt="jagdish44" /></p>
