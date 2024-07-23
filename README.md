@@ -19,7 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagdish44&show_icons=true&locale=en&layout=compact" alt="jagdish44" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagdish44&show_icons=true&locale=en" alt="jagdish44" /></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=terabhaiSM&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
