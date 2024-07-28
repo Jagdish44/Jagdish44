@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Feedback Mechanism**
 
-- 🌱 I’m currently learning **Djnago**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **jagdishkumar.kar.min21@itbhu.ac.in**
 
