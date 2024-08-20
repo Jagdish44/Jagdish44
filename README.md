@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/384914/programmer.gif">
 
-- 🔭 I’m currently working on **Feedback Mechanism**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **jagdishkumar.kar.min21@itbhu.ac.in**
 
